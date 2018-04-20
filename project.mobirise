@@ -31,15 +31,19 @@
     "versionPublish": "4.7.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "siteUrl": "http://yanarruda.ca",
-    "sitemapSwitcherAuto": "on"
+    "siteUrl": "https://yanmandula.github.io/Photography/",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "@PROJECT_PATH@/assets/images/download-128x128-1.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Photo Porffolio",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -117,7 +121,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com"
@@ -222,7 +226,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "PRODUCTS",
+          "title": "<a href=\"products.html\" class=\"text-white\">PRODUCTS</a>",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -256,7 +260,7 @@
             "overlayColor": "#222222",
             "overlayOpacity": "0.5"
           },
-          "title": "STREET PHOTOGRAPHY",
+          "title": "<a href=\"streetphotography.html\" class=\"text-white\">STREET PHOTOGRAPHY</a>",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -290,7 +294,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "BLACK AND WHITE<br>",
+          "title": "<a href=\"blackandwhite.html\" class=\"text-white\">BLACK AND WHITE</a><br>",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -324,7 +328,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "PORTRAITS",
+          "title": "<a href=\"portraits.html\" class=\"text-white\">PORTRAITS</a>",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -566,7 +570,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com"
@@ -941,7 +945,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com"
@@ -1094,7 +1098,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com"
@@ -1465,7 +1469,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com"
